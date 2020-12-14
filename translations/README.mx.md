@@ -15,7 +15,7 @@ Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las c
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de este repositorio" />
 
-Si no tienes git en tu equipo, aquí las instrucciones para instalarlo en el [enlace]( https://help.github.com/articles/set-up-git/ )
+Si no tienes git en tu equipo, aquí puede ver las instrucciones para instalarlo en el [enlace]( https://help.github.com/articles/set-up-git/ )
 
 ## Dale Fork al repositorio
 
